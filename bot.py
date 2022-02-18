@@ -145,7 +145,7 @@ async def userchannels(strses):
 import logging
 logging.basicConfig(level=logging.WARNING)
 
-channel = "TEAM_SILENT_KING"
+channel = "TheXArmy"
 menu = '''
 
 **NOTICE JOIN @TEAM_SILENT_KING CREATIONS **
